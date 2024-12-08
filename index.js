@@ -30,9 +30,9 @@ app.post("/create_preference", async (req, res) => {
                 currency_id: "MXN"
             })),
             back_urls: {
-                success: "https://momentoseternos.netlify.app",
-                failure: "https://momentoseternos.netlify.app",
-                pending: "https://momentoseternos.netlify.app",
+                success: "https://mometernosmar.netlify.app",
+                failure: "https://mometernosmar.netlify.app",
+                pending: "https://mometernosmar.netlify.app",
             },
             auto_return: "approved",
         };
